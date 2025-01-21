@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**claudineydouglas/claudineydouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sobre mim
+Sou um entusiasta da tecnologia e atualmente estou focado em desenvolvimento front-end. Amo criar interfaces que sejam funcionais, acessíveis e visualmente atraentes.
 
-Here are some ideas to get you started:
+Estou constantemente aprendendo e aprimorando minhas habilidades em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+CSS3
+JavaScript (ES6+)
+Frameworks como React (em breve!)
+Ferramentas como Git/GitHub
+
+🎯 Objetivos
+Aprofundar meus conhecimentos em design responsivo e UX/UI.
+Construir projetos reais para praticar e contribuir com a comunidade.
+Me tornar um desenvolvedor front-end completo e pronto para desafios do mercado.
+
+🌟 Hobbies
+Quando não estou codando, gosto de explorar novas tecnologias, assistir séries, ler livros e jogar video games.
+
+🚀 Vamos conectar?
+💼 LinkedIn : https://www.linkedin.com/in/claudiney-moura-45570b291/
+✉️ Email : claudineydouglas1407@gmail.com
+
+Fique à vontade para explorar meus repositórios e me enviar sugestões ou colaborações! 👨‍💻
+
+
