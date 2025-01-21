@@ -17,7 +17,7 @@ Construir projetos reais para praticar e contribuir com a comunidade.
 Me tornar um desenvolvedor front-end completo e pronto para desafios do mercado.
 
 🌟 Hobbies
-Quando não estou codando, gosto de explorar novas tecnologias, assistir séries, ler livros e jogar video games.
+Quando não estou codando, gosto de explorar novas tecnologias, assistir séries, ler livros e jogar video game.
 
 🚀 Vamos conectar?
 💼 LinkedIn : https://www.linkedin.com/in/claudiney-moura-45570b291/
