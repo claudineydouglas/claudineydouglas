@@ -12,7 +12,7 @@ Frameworks como React (em breve!)
 Ferramentas como Git/GitHub
 
 🎯 Objetivos
-Aprofundar meus conhecimentos em design responsivo e UX/UI.
+Aprofundar meus conhecimentos em design responsivo.
 Construir projetos reais para praticar e contribuir com a comunidade.
 Me tornar um desenvolvedor front-end completo e pronto para desafios do mercado.
 
